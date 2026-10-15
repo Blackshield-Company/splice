@@ -1,3 +1,5 @@
+![splice](.github/preview.png)
+
 # splice
 
 > Minimalist Git alternative for binary assets. Content-addressable storage, delta compression, designed for game devs drowning in .psd and .fbx files.

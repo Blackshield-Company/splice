@@ -18,3 +18,4 @@ tests/test_diff_log
 build/
 cmake-build-*/
 tests/test_lib
+.omo/
